@@ -9,6 +9,9 @@ angles (to which to rotate the servo to) from a web server.
 This is just a demonstrator to show, how to control an Arduino through a web
 service.
 
+It also demonstrates how one can use another API on the webserver to do some
+work for you (in this case, just add two random numbers...).
+
 
 # Setup
 
